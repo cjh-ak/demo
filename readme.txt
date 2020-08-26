@@ -1,2 +1,2 @@
-Git is a distributed version control system.
-Git is a free software.
+This is a classical book in image processing.
+Take it as you need.
